@@ -1,0 +1,15 @@
+{
+    "name": "wak-paypal",
+    "description": "Paypal REST API Implementation",
+    "version": "1",
+    "author": "Redwan Hilali (https://github.com/hredwan)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hredwan/Paypal.gitt"
+    },
+    
+    "keywords": ["paypal", "payments", "wakanda", "rest paypal"],
+    "main": "./paypal/index.js"
+    "license": "MIT",
+    "see": "https://developer.paypal.com/webapps/developer/docs/api/"
+}
