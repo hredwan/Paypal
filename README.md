@@ -31,8 +31,8 @@ In order to start using the paypal module:
 
 2. Setup your credentials in paypal/config.js (you can use sandbox to get test credentials)
 
-        config.client_id = "AYdFyhBqEOdJMdurm-oaUWAgO5bXIm52anvLctjSNePa856eQ3XS4nOaSM9D";
-        config.secret    = "YOUR_SECRET";
+        config.client_id = "YOUR_CLIENT_ID";
+        config.secret    = "YOUR_SECRET_KEY";
         
 3. Set payment.js you've created as RPC Service and Include it in your page.
 4. in your page, you can add a form that capture credit card details (first name, last name, card number, cvv2, expire date(year & month), type (visa, mastercard, discover, amex))
