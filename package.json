@@ -9,7 +9,7 @@
     },
     
     "keywords": ["paypal", "payments", "wakanda", "rest paypal"],
-    "main": "./paypal/index.js"
+    "main": "./paypal/index.js",
     "license": "MIT",
     "see": "https://developer.paypal.com/webapps/developer/docs/api/"
 }
