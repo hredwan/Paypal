@@ -12,7 +12,7 @@ In order to start using the paypal module:
 1. create another JS Module in Wakanda (i.e: payments.js)
 
 ```javascript
-var module = require('paypal');
+var module = require('wak-paypal');
 
 var paypalModule = new module.Paypal();
 var payments = {};
