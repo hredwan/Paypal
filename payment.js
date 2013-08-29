@@ -1,4 +1,4 @@
-﻿var module = require('paypal');
+﻿var module = require('wak-paypal');
 
 var paypalModule = new module.Paypal();
 var payments = {};
