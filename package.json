@@ -5,11 +5,11 @@
     "author": "Redwan Hilali (https://github.com/hredwan)",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hredwan/Paypal.gitt"
+        "url": "https://github.com/hredwan/Paypal.git"
     },
     
     "keywords": ["paypal", "payments", "wakanda", "rest paypal"],
-    "main": "./paypal/index.js"
+    "main": "./paypal/index.js",
     "license": "MIT",
     "see": "https://developer.paypal.com/webapps/developer/docs/api/"
 }
